@@ -1,0 +1,37 @@
+SOCIAL MEDIA REACH ANALYSIS - SUMMARY REPORT
+================================================
+
+Total posts analyzed: 1,069
+Date range: 2023-01-01 to 2024-06-30
+Total reach: 16,301,004
+Total impressions: 22,075,169
+Total engagements: 892,747
+Overall average engagement rate: 4.58%
+
+Reach by Platform:
+ Platform   Reach
+Instagram 5165792
+   TikTok 4572223
+ Facebook 3219594
+Twitter/X 2497532
+ LinkedIn  845863
+
+Average Engagement Rate by Platform (%):
+ Platform  EngagementRate
+   TikTok            8.02
+Instagram            5.55
+ LinkedIn            3.88
+ Facebook            2.63
+Twitter/X            2.29
+
+Average Reach by Post Type:
+  PostType        Reach
+Reel/Short 20916.788321
+     Video 16520.894161
+  Carousel 14548.155689
+     Image 11473.297297
+      Text  6757.400000
+
+Best performing month (reach): 2024-04 (1,388,945)
+Best performing weekday (avg reach): Saturday (17834)
+Top platform by total reach: Instagram (5,165,792)
